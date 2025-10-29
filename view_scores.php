@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="mainboard">
-  <h1>📊 Lịch sử điểm</h1>
+  <h1>📊 Lịch sử điểmABC</h1>
   <form method="GET" action="">
     <label>Nhập User ID:</label>
     <input type="number" name="user_id" required>
