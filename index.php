@@ -10,7 +10,7 @@
   <div class="mainboard">
   <h1>🏹 Danh sách Archer(user_table)</h1>
   
-  <!-- Search Bar, Reset button -->
+  <!-- Search Bar, Reset buttonnn -->
   <form action="" method="GET">
     <div class="input-group mb-3">
       <input type="text" name="search" required value="<?php if(isset($_GET['search'])){echo $_GET['search']; } ?>" class="form-control" placeholder="Tìm kiếm Archer">
