@@ -3,7 +3,7 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Danh sách Archer</title>
+  <title>Danh sách ArcherRrrrrr</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
